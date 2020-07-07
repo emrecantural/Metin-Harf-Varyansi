@@ -1,0 +1,15 @@
+C:\Users\emrec\Desktop\emrecantural\emrecantural\bin\Debug\emrecantural.exe.config
+C:\Users\emrec\Desktop\emrecantural\emrecantural\bin\Debug\emrecantural.exe
+C:\Users\emrec\Desktop\emrecantural\emrecantural\bin\Debug\emrecantural.pdb
+C:\Users\emrec\Desktop\emrecantural\emrecantural\obj\Debug\emrecantural.csprojAssemblyReference.cache
+C:\Users\emrec\Desktop\emrecantural\emrecantural\obj\Debug\emrecantural.Form1.resources
+C:\Users\emrec\Desktop\emrecantural\emrecantural\obj\Debug\emrecantural.Properties.Resources.resources
+C:\Users\emrec\Desktop\emrecantural\emrecantural\obj\Debug\emrecantural.csproj.GenerateResource.cache
+C:\Users\emrec\Desktop\emrecantural\emrecantural\obj\Debug\emrecantural.exe
+C:\Users\emrec\Desktop\emrecantural\emrecantural\obj\Debug\emrecantural.pdb
+C:\Users\emrec\Desktop\Belgeler\emrecantural\emrecantural\obj\Debug\emrecantural.csprojAssemblyReference.cache
+C:\Users\emrec\Desktop\Belgeler\emrecantural\emrecantural\obj\Debug\emrecantural.Form1.resources
+C:\Users\emrec\Desktop\Belgeler\emrecantural\emrecantural\obj\Debug\emrecantural.Properties.Resources.resources
+C:\Users\emrec\Desktop\Belgeler\emrecantural\emrecantural\obj\Debug\emrecantural.csproj.GenerateResource.cache
+C:\Users\emrec\Desktop\Belgeler\emrecantural\emrecantural\obj\Debug\emrecantural.exe
+C:\Users\emrec\Desktop\Belgeler\emrecantural\emrecantural\obj\Debug\emrecantural.pdb
